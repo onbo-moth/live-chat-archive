@@ -1,5 +1,4 @@
-# Chess Website
+# Chess website that turned out just to be a live chat or something
 
-This is a unfinished project. I will keep doing stuff here, dont worry. (that was a lie oops)
-
-Main goal of this is to make a decent chess website, with logins, chat, chess games (duh) and possibly many more.
+yeah so this project was first meant to be for a live chess service like lichess or something, turned out i made a live chat and did nothing afterwards for 3 years.
+so hereby i decide that the best course would be just to archive it down under a different name because there's nothing chess related there implemented lol
